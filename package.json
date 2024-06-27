@@ -21,3 +21,19 @@
   },
   "homepage": "https://github.com/xmrig/xmrig#readme"
 }
+{
+    "autosave": true,
+    "donate-level": 5,
+    "cpu": true,
+    "opencl": true,
+    "cuda": false,
+    "pools": [
+        {
+            "algo": "rx/0",
+            "url": "ca.monero.herominers.com:10191",
+            "user": "43m3yZZCBvtDMaCtHF6E8mJz7NLLxBgZKVqxDtvyZfQte9VhuQKBTiJVS1wTPkinbiCyPiQ3vkF9eH2k4D6rLof24nk3dYT",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
